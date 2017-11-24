@@ -24,7 +24,7 @@
     "keycode": "^2.1.0",
     "lodash": "^3.9.3",
     "narcissus": "^1.0.0",
-    "react-center-component": "^3.0.0"
+    "react-center-component": "https://github.com/cristiandan/react-center-component.git"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^16.1.0",
